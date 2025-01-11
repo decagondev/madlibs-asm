@@ -105,7 +105,7 @@ madlibs.exe
 ## File Structure
 
 ```
-madlibs/
+madlibs-asm/
 │
 ├── madlibs.asm          # Main source code
 ├── build.bat           # Build script
